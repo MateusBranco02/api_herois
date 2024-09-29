@@ -2,4 +2,6 @@
 
 Como iniciar o repositório:
 
-Utilizar o comando npm install e iniciar o arquivo server.js.
+Rodar os seguintes comandos no cmd:
+npm install
+node server.js
